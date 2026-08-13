@@ -20,7 +20,7 @@ signed main() {
         while ((i >= 0 or j >= 0) and cnt < lim) {
             if (j < 0 or (i >= 0 and A[i] > B[j])) {
                 if (ca < N) {
-                    ans += A[i]; 
+                    ans += A[i];
                     ++ca; 
                     ++cnt; 
                 }
