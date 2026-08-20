@@ -67,7 +67,7 @@ int main() {
         cin >> bs;
         for (double &x : v) cin >> x;
         for (int j = 0; j < 6; ++j) if (v[j] >= 0) tab[j].push_back({bs, v[j]});
-    } //#include <bits/stdc++.h> using namespace std;
+    }
     for (int j = 0; j < 6; ++j) sort(tab[j].begin(), tab[j].end());
 
     auto dur = [&](int type, int x) -> double {
