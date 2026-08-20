@@ -1,0 +1,6 @@
+5
+DR LR D R D
+D D D D D
+D LR D D D
+D D DR D D
+R D D D D

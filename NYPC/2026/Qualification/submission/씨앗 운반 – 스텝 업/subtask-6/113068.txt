@@ -1,0 +1,4 @@
+3
+D X X
+R UDR 2D
+D L X

@@ -1,0 +1,6 @@
+5
+X X 2D X X
+X X 4D X X
+3D L RDUL 3D X
+X X 2R X 2D
+X X X X X

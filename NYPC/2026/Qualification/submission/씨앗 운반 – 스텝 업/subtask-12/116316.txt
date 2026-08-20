@@ -1,0 +1,7 @@
+6
+D 3D 3D D D
+DR R 5D 5D 5D
+R 4D X X X
+3D L 2D L X
+X D L X X
+X D D X X

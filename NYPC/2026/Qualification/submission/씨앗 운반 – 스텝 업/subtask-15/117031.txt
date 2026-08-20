@@ -1,0 +1,9 @@
+8
+3D 2D 8D 4D D 3D D 8D
+X 7D X X R 7D 5L X
+6D L X X X X X X
+3R X X 5D X R 5D X
+X X X R 4D X X X
+X X X X X X X X
+X X X X X X X X
+X X X X X X X X

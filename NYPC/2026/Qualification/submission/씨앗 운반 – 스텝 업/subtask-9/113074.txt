@@ -1,0 +1,4 @@
+3
+D X D
+R DR DL L
+D X X

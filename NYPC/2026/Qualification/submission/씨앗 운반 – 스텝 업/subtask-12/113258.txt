@@ -1,0 +1,6 @@
+5
+D D 5D X X
+3D DDR 4D X X
+X 3D X X X
+X X X X X
+DDR DDDDR 1D X X

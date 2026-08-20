@@ -1,0 +1,8 @@
+7
+DR X X X X X X
+D DR X X X X X
+D D DR X X X X
+D D D DR X X X
+D D D D DR X X
+D D D D D DR X
+D D D D D D D

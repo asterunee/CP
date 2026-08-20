@@ -1,0 +1,8 @@
+7
+D 2D 2D 4D 6D
+3R X X 6D X
+X 5D DR R 5D
+4D X 2L X X
+3D X X DR 4L
+X X X R 2D
+X X D X 2L

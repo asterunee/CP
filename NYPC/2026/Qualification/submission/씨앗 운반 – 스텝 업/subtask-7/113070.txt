@@ -1,0 +1,6 @@
+5
+X X D X X
+4D X 2L X X
+X 3D UDLR 3D X
+X X 2R X 2D
+X X X X X
