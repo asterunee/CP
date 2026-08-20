@@ -1,0 +1,1 @@
+Some of the code in that folder was created using AI(GPT 5.5 sol).
